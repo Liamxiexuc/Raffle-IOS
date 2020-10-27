@@ -1,2 +1,2 @@
-# KIT607_assignment2
-KIT607A2
+# A Raffle App
+build by swift 5
